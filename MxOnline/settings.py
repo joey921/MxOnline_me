@@ -146,7 +146,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 EMAIL_HOST = "smtp.sina.com"
 EMAIL_PORT = 25
 EMAIL_HOST_USER = "yaoyiok_hotmail@sina.com"
-EMAIL_HOST_PASSWORD = "Joejoeok921"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_USE_TLS= False
 EMAIL_FROM = "yaoyiok_hotmail@sina.com"
 
